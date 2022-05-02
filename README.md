@@ -17,15 +17,16 @@ Here are some ideas to get you started:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/henrique-fernandes-586537111/)
 [![Facebook](https://img.shields.io/badge/Facebook-white?style=for-the-badge&logo=Facebook)](https://www.facebook.com/rick.goncalves.988/)
-[![Instagram](https://img.shields.io/badge/Instagram-blueviolet?style=for-the-badge&logo=Instagram)](https://www.instagram.com/rickky.fernandes/)
+[![Instagram](https://img.shields.io/badge/Instagram-BC2A8D?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rickky.fernandes/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.instagram.com/rickky.fernandes/)
 [![Outlook](https://img.shields.io/badge/Outlook-blue?style=for-the-badge&logo=Microsoft&link=mailto:henriquegfernandes@outlook.com)](mailto:mailto:henriquegfernandes@outlook.com)
 
-🔭 I’m currently working at Mr. Sales <br>
-🌱 I’m currently studying computer engineering <br>
+🔭 I’m currently working with *C# .Net* <br>
+🌱 I’m currently studying *computer engineering* <br>
 💻 Junior FullStack Developer <br>
 🏡 Brazilian, living in Osasco - SP
 
-### About
+### Github Stats
 
-![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=Henrique-GF&show_icons=true) <br>
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-GF&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=Henrique-GF&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0a0c10)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-GF&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0a0c10)](https://github.com/anuraghazra/github-readme-stats)
