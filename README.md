@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 [![Instagram](https://img.shields.io/badge/Instagram-blueviolet?style=for-the-badge&logo=Instagram)](https://www.instagram.com/rickky.fernandes/)
 [![Outlook](https://img.shields.io/badge/Outlook-blue?style=for-the-badge&logo=Microsoft&link=mailto:henriquegfernandes@outlook.com)](mailto:mailto:henriquegfernandes@outlook.com)
 
-🔭 I’m currently working on UsadosBR <br>
+🔭 I’m currently working at Mr. Sales <br>
 🌱 I’m currently studying computer engineering <br>
 💻 Junior FullStack Developer <br>
 🏡 Brazilian, living in Osasco - SP
