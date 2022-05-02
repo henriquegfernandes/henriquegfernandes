@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/henrique-fernandes-586537111/)
 [![Facebook](https://img.shields.io/badge/Facebook-white?style=for-the-badge&logo=Facebook)](https://www.facebook.com/rick.goncalves.988/)
 [![Instagram](https://img.shields.io/badge/Instagram-BC2A8D?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rickky.fernandes/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.instagram.com/rickky.fernandes/)
 [![Outlook](https://img.shields.io/badge/Outlook-blue?style=for-the-badge&logo=Microsoft&link=mailto:henriquegfernandes@outlook.com)](mailto:mailto:henriquegfernandes@outlook.com)
 
 🔭 I’m currently working with *C# .Net* <br>
