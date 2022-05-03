@@ -27,5 +27,5 @@ Here are some ideas to get you started:
 
 ### Github Stats
 
-![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=Henrique-GF&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0a0c10)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-GF&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0a0c10)](https://github.com/anuraghazra/github-readme-stats)
+![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=henriquegfernandes&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0a0c10)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquegfernandes&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0a0c10)](https://github.com/anuraghazra/github-readme-stats)
