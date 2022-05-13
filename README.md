@@ -1,4 +1,4 @@
-### Hi there👋 I'm Henrique Fernandes! 
+### Hi there👋
 
 <!--
 **Henrique-GF/Henrique-GF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
