@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working with *C# .Net* <br>
 🌱 I’m currently studying *computer engineering* <br>
-💻 Junior FullStack Developer <br>
+💻 Junior Backend Developer <br>
 🏡 Brazilian, living in Osasco - SP
 
 ### Github Stats
