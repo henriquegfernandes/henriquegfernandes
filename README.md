@@ -22,10 +22,11 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working with *C# .Net* <br>
 🌱 I’m currently studying *computer engineering* <br>
-💻 Junior Backend Developer <br>
+💻 Full Backend Developer <br>
 🏡 Brazilian, living in Osasco - SP
+
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquegfernandes&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0a0c10)](https://github.com/henriquegfernandes)
 
 ### Github Stats
 
-![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=henriquegfernandes&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0a0c10)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquegfernandes&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0a0c10)](https://github.com/anuraghazra/github-readme-stats)
+[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=henriquegfernandes&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0)](https://github.com/henriquegfernandes)
