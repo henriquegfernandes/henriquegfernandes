@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 [![Instagram](https://img.shields.io/badge/Instagram-BC2A8D?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rickky.fernandes)
 <br><br>
 
-## Languages and tools
+## 🔧 Languages and tools
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquegfernandes&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0a0c10)](https://github.com/henriquegfernandes)
 
 ![VisualStudio](https://img.icons8.com/fluency/48/visual-studio.png)
