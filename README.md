@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <br><br>
 
 ## 📱 Contact and Social Media
-[![Outlook](https://img.shields.io/badge/Outlook-blue?style=for-the-badge&logo=Microsoft&link=mailto:henriquegfernandes@outlook.com)](mailto:mailto:henriquegfernandes@outlook.com)
+[![Email](https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:henriquegfernandes@outlook.com)](mailto:mailto:henriquegfernandes@outlook.com)
 [![WA Business](https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.me/5511957804108)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/henrique-fernandes-586537111)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/rique.fernandes)
