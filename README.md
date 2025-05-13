@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working with *C# .Net* <br>
 - 🌱 I’m currently studying *computer engineering* <br>
 - 💻 Full Backend Developer <br>
-- 🏡 Brazilian, living in Osasco - SP
+- 🏡 Brazilian, living in São Paulo
 <br><br>
 
 ## 📱 Contact and Social Media
-[![Email](https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:henriquegfernandes@outlook.com)](mailto:mailto:henriquegfernandes@outlook.com)
+[![Email](https://img.shields.io/badge/Email-8A90C7?style=for-the-badge&logo=Protonmail&logoColor=white&link=mailto:henriquegfernandes@proton.me)](mailto:mailto:henriquegfernandes@proton.me)
 [![WA Business](https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.me/5511957804108)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/henrique-fernandes-586537111)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/rique.fernandes)
@@ -56,9 +56,9 @@ Here are some ideas to get you started:
 <br><br>
 
 ## 💻 Workspace Spec
-[![GPU](https://img.shields.io/badge/AMD-Radeon_RX_6650XT-ED1C24?style=for-the-badge&logo=amd&logoColor=white)](#)
-[![CPU](https://img.shields.io/badge/AMD-Ryzen_5_5600G-ED1C24?style=for-the-badge&logo=amd&logoColor=white)](#)
-[![SO](https://img.shields.io/badge/Windows-11-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#)
+[![GPU](https://img.shields.io/badge/Nvidia-Geforce_RTX_3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](#)
+[![CPU](https://img.shields.io/badge/Intel-Core_i7_13650HX-0071C5?style=for-the-badge&logo=intel&logoColor=white)](#)
+[![SO](https://img.shields.io/badge/Ubuntu-DD4814?style=for-the-badge&logo=ubuntu&logoColor=white)](#)
 <br><br>
 
 ## ❤ Views and Followers
