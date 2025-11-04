@@ -51,8 +51,6 @@ Here are some ideas to get you started:
 
 ## 📊 Github Stats
 [![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=henriquegfernandes&theme=black-ice&hide_border=true&stroke=0000&background=0a0c10)](#)
-
-[![Henrique Fernandes's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=henriquegfernandes&theme=react-dark&bg_color=0a0c10&hide_border=true)](#)
 <br><br>
 
 ## 💻 Workspace Spec
