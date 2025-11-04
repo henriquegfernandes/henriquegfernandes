@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 ## 💻 Workspace Spec
 [![GPU](https://img.shields.io/badge/Nvidia-Geforce_RTX_3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](#)
 [![CPU](https://img.shields.io/badge/Core_i7_13650HX-0071C5?style=for-the-badge&logo=intel&logoColor=white&logoSize=auto&labelColor=gray)](#)
-[![OS](https://img.shields.io/badge/Arch_Linux?style=for-the-badge&logo=archlinux&logoColor=white&logoSize=auto&labelColor=gray)](#)
+[![OS](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white&logoSize=auto&labelColor=gray)](#)
 <br><br>
 
 ## ❤ Views and Followers
