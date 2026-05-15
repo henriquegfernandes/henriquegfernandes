@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 <br>
 
 ## 🙋‍♂️ About me
-- 🔭 I’m currently working with *C# .Net* <br>
-- 🌱 I’m currently studying *computer engineering* <br>
+- 🔭 I’m currently working with *.Net and React* <br>
+- 🌱 I’m currently studying *computer science* <br>
 - 💻 Full Backend Developer <br>
 - 🏡 Brazilian, living in São Paulo
 <br><br>
