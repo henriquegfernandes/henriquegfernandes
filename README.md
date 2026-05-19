@@ -74,7 +74,7 @@ OS            Fedora Kinoite
 
 ## 📊 Github Stats
 [![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=henriquegfernandes&theme=github_dark)](#)
-[![Most Commit Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=henriquegfernandes&theme=github_dark)](#)
+&nbsp;&nbsp;&nbsp;
 [![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=henriquegfernandes&theme=black-ice&hide_border=true&stroke=0000&background=0a0c10)](#)
 
 ## 💻 Workspace Spec
