@@ -78,9 +78,9 @@ OS            Fedora Kinoite
 [![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=henriquegfernandes&theme=black-ice&hide_border=true&stroke=0000&background=0a0c10)](#)
 
 ## 💻 Workspace Spec
-[![GPU](https://img.shields.io/badge/Nvidia-Geforce_RTX_3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](#)
-[![CPU](https://img.shields.io/badge/Core_i7_13650HX-0071C5?style=for-the-badge&logo=intel&logoColor=white&logoSize=auto&labelColor=gray)](#)
-[![OS](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white&logoSize=auto&labelColor=gray)](#)
+[![GPU](https://img.shields.io/badge/Nvidia-GeForce_RTX_3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](#)
+[![CPU](https://img.shields.io/badge/Intel_Core_i7_13650HX-0071C5?style=for-the-badge&logo=intel&logoColor=white&labelColor=gray)](#)
+[![OS](https://img.shields.io/badge/Fedora_Kinoite-51A2DA?style=for-the-badge&logo=fedora&logoColor=white&labelColor=gray)](#)
 <br><br>
 
 ## ❤ Views and Followers
